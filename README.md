@@ -37,9 +37,8 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough
+ <img src="http://g.recordit.co/Ouc2sj9hCL.gif" width=200><br>
 
-Here's a walkthrough of implemented user stories:
-![] http://g.recordit.co/Ouc2sj9hCL.gif
 
 
 ## Reflection Questions
