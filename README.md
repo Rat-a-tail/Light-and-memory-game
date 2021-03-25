@@ -4,7 +4,7 @@
 
 Submitted by: **Tyga Kinsumbya**
 
-Time spent: **7** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/fuschia-gray-blanket?path=index.html%3A1%3A0
 
