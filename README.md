@@ -6,7 +6,7 @@ Submitted by: **Tyga Kinsumbya**
 
 Time spent: **7** hours spent in total
 
-Link to project: https://glitch.com/edit/#!/fuschia-gray-blanket?path=script.js%3A133%3A20
+Link to project: https://glitch.com/edit/#!/fuschia-gray-blanket?path=index.html%3A1%3A0
 
 ## Required Functionality
 
@@ -38,6 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
  <img src="http://g.recordit.co/Ouc2sj9hCL.gif" width=200><br>
+  <img src="http://g.recordit.co/J5YKHERPdP.gif" width=200><br>
 
 
 
